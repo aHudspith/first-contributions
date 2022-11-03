@@ -4123,5 +4123,6 @@
 - [theshook](https://github.com/theshook)
 - [Shardul-Kavar](https://github.com/Shardul-Kavar)
 - [ritam77](https://github.com/ritam77)
+- [eridon](https://github.com/eridon)
 
 <!-- prettier-ignore-end -->
